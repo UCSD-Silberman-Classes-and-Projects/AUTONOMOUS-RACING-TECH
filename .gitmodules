@@ -1,8 +1,11 @@
 # Submodules are registered here automatically by:
-#   git submodule add <repo-url> software/<component-repo>
-#   git submodule add <repo-url> hardware/<component-repo>
+#   git submodule add <repo-url> <area>/<component-repo>
+# where <area> is one of: sensor_fusion_ml, localization_mapping, optimization_acceleration
 #
 # Example entry:
-# [submodule "software/<component-repo>"]
-# 	path = software/<component-repo>
+# [submodule "sensor_fusion_ml/<component-repo>"]
+# 	path = sensor_fusion_ml/<component-repo>
 # 	url = https://github.com/<org>/<component-repo>.git
+[submodule "BLUE-ROBOCAR-ROS2"]
+	path = BLUE-ROBOCAR-ROS2
+	url = https://github.com/UCSD-Silberman-Classes-and-Projects/BLUE-ROBOCAR-ROS2.git
