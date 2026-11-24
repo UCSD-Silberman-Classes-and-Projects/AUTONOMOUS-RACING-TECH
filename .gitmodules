@@ -1,0 +1,8 @@
+# Submodules are registered here automatically by:
+#   git submodule add <repo-url> software/<component-repo>
+#   git submodule add <repo-url> hardware/<component-repo>
+#
+# Example entry:
+# [submodule "software/<component-repo>"]
+# 	path = software/<component-repo>
+# 	url = https://github.com/<org>/<component-repo>.git
