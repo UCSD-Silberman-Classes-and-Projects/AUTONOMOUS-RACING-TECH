@@ -12,4 +12,5 @@
 | Soham Ravindra Lokhande | Optimization and Acceleration | [email] |
 | Jason Wang | Localization and Mapping | [email] |
 | Vishnu Naroth | Localization and Mapping | [email] |
+| Borna Mesri | Hardware | [email] |
 | Dr. Jack Silberman | Advisor | [email] |
